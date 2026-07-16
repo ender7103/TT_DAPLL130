@@ -1,6 +1,6 @@
 ![](../../workflows/gds/badge.svg) ![](../../workflows/docs/badge.svg)
 
-# Tiny Tapeout Analog Project Template
+# A Digitally Assisted Integer-N Charge-Pump PLL with Automatic VCO-Band Calibration and Dual-Mode Loop-Bandwidth Control
 
 - [Read the documentation for project](docs/info.md)
 
