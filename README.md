@@ -8,12 +8,6 @@
 
 The design combines an analog PLL core with digital calibration and control logic to improve startup reliability and support programmable clock generation.
 
-## What is Tiny Tapeout?
-
-Tiny Tapeout is an educational project that aims to make it easier and cheaper than ever to get your digital designs manufactured on a real chip.
-
-To learn more and get started, visit https://tinytapeout.com.
-
 
 ## Key Features
 
@@ -36,3 +30,9 @@ The main blocks are:
 - Feedback and output dividers
 - Calibration and lock-control logic
 - Test and debug interface
+
+
+## Tiny Tapeout
+
+This project is intended for fabrication through [Tiny Tapeout](https://tinytapeout.com/).
+Tiny Tapeout is an educational project that aims to make it easier and cheaper than ever to get your digital designs manufactured on a real chip.
