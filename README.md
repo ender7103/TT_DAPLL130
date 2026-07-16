@@ -34,5 +34,5 @@ The main blocks are:
 
 ## Tiny Tapeout
 
-This project is intended for fabrication through [Tiny Tapeout](https://tinytapeout.com/).
+This project is intended for fabrication through [Tiny Tapeout](https://tinytapeout.com/).  
 Tiny Tapeout is an educational project that aims to make it easier and cheaper than ever to get your digital designs manufactured on a real chip.
