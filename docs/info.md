@@ -9,7 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-DAPLL-130 is a programmable integer-N charge-pump PLL implemented in 130-nm CMOS.
+DAPLL130 is a programmable integer-N charge-pump PLL implemented in 130-nm CMOS.
 
 A phase-frequency detector and charge pump control the ring-VCO through a passive loop filter. The VCO uses digital coarse tuning and analog fine tuning. At startup, the calibration logic selects a suitable VCO band before enabling normal phase locking.
 
