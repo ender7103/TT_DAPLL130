@@ -4,7 +4,7 @@
 
 - [Read the documentation for project](docs/info.md)  
 
-**DAPLL-130** is a programmable integer-N charge-pump PLL designed in 130-nm CMOS for Tiny Tapeout.
+**DAPLL130** is a programmable integer-N charge-pump PLL designed in 130-nm CMOS for Tiny Tapeout.
 
 The design combines an analog PLL core with digital calibration and control logic to improve startup reliability and support programmable clock generation.
 
